@@ -49,7 +49,7 @@ window.onclick = function(event){
 
 
 function getResume() {
-  window.open("https://drive.google.com/file/d/15xm_cjZS1J2ahh2XRRTyqTrmJLBVX25x/view?usp=sharing");
+  window.open("https://drive.google.com/file/d/1te6qhX2-nBYNSYQigJcWA-N7GJADFOj6/view?usp=sharing");
 }
 
 // API example
